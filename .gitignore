@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+*.swo
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+__pycache__/
+*.pyc
