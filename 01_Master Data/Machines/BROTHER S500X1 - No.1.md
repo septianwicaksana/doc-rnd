@@ -43,10 +43,12 @@ person_in_charge_2: Raditya Putra Wiratama
 | Feature | Value |
 | --- | --- |
 | Axis Config | TBD |
-| Bar Capacity | TBD mm |
-| Max RPM | TBD |
-| Max Feed | TBD |
-| Turret Positions | TBD |
+| Table Size | TBD mm x TBD mm |
+| Max Spindle RPM | TBD RPM |
+| Max Feed Rate | TBD mm/min |
+| Tool Magazine Capacity | TBD |
+| Rapid Traverse | TBD m/min |
+| Coolant System | TBD |
 
 ## Tooling System
 

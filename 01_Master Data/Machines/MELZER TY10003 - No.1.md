@@ -42,19 +42,18 @@ person_in_charge_2: Fadhilah Firdaus
 
 | Feature | Value |
 | --- | --- |
-| Axis Config | TBD |
-| Bar Capacity | TBD mm |
-| Max RPM | TBD |
-| Max Feed | TBD |
-| Turret Positions | TBD |
+| Press Force | TBD kN |
+| Stroke Length | TBD mm |
+| Table Size | TBD mm x TBD mm |
+| Operation Type | Hydraulic |
 
 ## Tooling System
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Tool Position Map
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Compatible Operations
 
@@ -73,7 +72,7 @@ SORT created_date DESC
 
 ## CNC Program History
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Common Issues
 

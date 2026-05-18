@@ -42,19 +42,19 @@ person_in_charge_2: Ahmad Jaelani
 
 | Feature | Value |
 | --- | --- |
-| Axis Config | TBD |
-| Bar Capacity | TBD mm |
-| Max RPM | TBD |
-| Max Feed | TBD |
-| Turret Positions | TBD |
+| Chamber Size | TBD |
+| Media Type | TBD |
+| Pressure Range | TBD bar |
+| Nozzle Size | TBD mm |
+| Compatible Materials | Ti6Al4V ELI, SS316LVM |
 
 ## Tooling System
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Tool Position Map
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Compatible Operations
 
@@ -73,7 +73,7 @@ SORT created_date DESC
 
 ## CNC Program History
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Common Issues
 

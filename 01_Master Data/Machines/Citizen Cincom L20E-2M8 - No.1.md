@@ -2,7 +2,7 @@
 type: machine
 machine_id: 100203
 machine_name: Citizen Cincom L20E-2M8 No.1
-machine_type: CNC Turning
+machine_type: Swiss-type CNC Turning
 manufacturer: CITIZEN
 model: L20E-2M8
 machine_no: 00L20
@@ -44,9 +44,13 @@ person_in_charge_2: Adolf Mesak Hitiyahubessy
 | --- | --- |
 | Axis Config | TBD |
 | Bar Capacity | TBD mm |
-| Max RPM | TBD |
-| Max Feed | TBD |
-| Turret Positions | TBD |
+| Max Spindle RPM | TBD RPM |
+| Max Feed Rate | TBD mm/min |
+| Gang Tool Positions | TBD |
+| Sub-spindle | TBD |
+| Back Machining | TBD |
+| Guide Bushing | TBD |
+| Coolant System | TBD |
 
 ## Tooling System
 

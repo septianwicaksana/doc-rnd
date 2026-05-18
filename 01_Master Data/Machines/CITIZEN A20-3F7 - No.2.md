@@ -44,9 +44,12 @@ person_in_charge_2: Aditya Ramadhan
 | --- | --- |
 | Axis Config | TBD |
 | Bar Capacity | TBD mm |
-| Max RPM | TBD |
-| Max Feed | TBD |
+| Max Spindle RPM | TBD RPM |
+| Max Feed Rate | TBD mm/min |
 | Turret Positions | TBD |
+| Sub-spindle | TBD |
+| Live Tooling | TBD |
+| Coolant System | TBD |
 
 ## Tooling System
 

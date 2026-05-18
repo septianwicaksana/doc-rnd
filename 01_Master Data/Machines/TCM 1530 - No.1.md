@@ -42,19 +42,19 @@ person_in_charge_2: Raditya Putra Wiratama
 
 | Feature | Value |
 | --- | --- |
-| Axis Config | TBD |
-| Bar Capacity | TBD mm |
-| Max RPM | TBD |
-| Max Feed | TBD |
-| Turret Positions | TBD |
+| Cutting Area | TBD mm x TBD mm |
+| Laser Power | TBD W |
+| Max Material Thickness | TBD mm |
+| Compatible Materials | TBD |
+| Positioning Accuracy | TBD mm |
 
 ## Tooling System
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Tool Position Map
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Compatible Operations
 
@@ -73,7 +73,7 @@ SORT created_date DESC
 
 ## CNC Program History
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Common Issues
 

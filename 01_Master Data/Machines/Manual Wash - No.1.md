@@ -42,19 +42,17 @@ person_in_charge_2: Erlangga Pratama
 
 | Feature | Value |
 | --- | --- |
-| Axis Config | TBD |
-| Bar Capacity | TBD mm |
-| Max RPM | TBD |
-| Max Feed | TBD |
-| Turret Positions | TBD |
+| Cleaning Method | Manual / Hand wash |
+| Compatible Agents | TBD |
+| Process | TBD |
 
 ## Tooling System
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Tool Position Map
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Compatible Operations
 
@@ -73,7 +71,7 @@ SORT created_date DESC
 
 ## CNC Program History
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Common Issues
 

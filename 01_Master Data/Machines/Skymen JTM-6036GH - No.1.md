@@ -42,19 +42,19 @@ person_in_charge_2: Fajar Sukatma
 
 | Feature | Value |
 | --- | --- |
-| Axis Config | TBD |
-| Bar Capacity | TBD mm |
-| Max RPM | TBD |
-| Max Feed | TBD |
-| Turret Positions | TBD |
+| Tank Capacity | TBD L |
+| Frequency | TBD kHz |
+| Temperature Range | TBD °C |
+| Timer Range | TBD min |
+| Compatible Cleaning Agents | TBD |
 
 ## Tooling System
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Tool Position Map
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Compatible Operations
 
@@ -73,7 +73,7 @@ SORT created_date DESC
 
 ## CNC Program History
 
-TBD
+Tidak berlaku untuk tipe mesin ini.
 
 ## Common Issues
 
