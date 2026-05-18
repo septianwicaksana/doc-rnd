@@ -1,0 +1,23 @@
+---
+type: sparepart
+item_no: 3001
+sparepart_name: YAMAZEN REGO FIX ER COLLET 16 Ø4
+brand: YAMAZEN
+bc_category: SPAREPARTS
+unit: PCS
+bc_inventory: 1
+status: active
+source: business_central
+---
+
+# YAMAZEN REGO FIX ER COLLET 16 Ø4
+
+## Basic Information
+
+| Field | Value |
+|---|---|
+| Item No. | 3001 |
+| Brand | YAMAZEN |
+| Category | SPAREPARTS |
+| Unit | PCS |
+| BC Inventory | 1 |
