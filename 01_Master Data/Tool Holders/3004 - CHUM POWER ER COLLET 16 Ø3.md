@@ -1,8 +1,8 @@
 ---
-type: sparepart
-item_no: 1604
-sparepart_name: HORN R356.1212.03
-brand: HORN
+type: tool_holder
+item_no: 3004
+holder_name: CHUM POWER ER COLLET 16 Ø3
+brand: CHUM
 bc_category: SPAREPARTS
 unit: PCS
 bc_inventory: 2
@@ -10,14 +10,14 @@ status: active
 source: business_central
 ---
 
-# HORN R356.1212.03
+# CHUM POWER ER COLLET 16 Ø3
 
 ## Basic Information
 
 | Field | Value |
 |---|---|
-| Item No. | 1604 |
-| Brand | HORN |
+| Item No. | 3004 |
+| Brand | CHUM |
 | Category | SPAREPARTS |
 | Unit | PCS |
 | BC Inventory | 2 |

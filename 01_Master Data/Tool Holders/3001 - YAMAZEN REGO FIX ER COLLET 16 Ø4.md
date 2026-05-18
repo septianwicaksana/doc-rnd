@@ -1,8 +1,8 @@
 ---
-type: sparepart
-item_no: 1617
-sparepart_name: SECO 150.10A-15-2RJETI
-brand: SECO
+type: tool_holder
+item_no: 3001
+holder_name: YAMAZEN REGO FIX ER COLLET 16 Ø4
+brand: YAMAZEN
 bc_category: SPAREPARTS
 unit: PCS
 bc_inventory: 1
@@ -10,14 +10,14 @@ status: active
 source: business_central
 ---
 
-# SECO 150.10A-15-2RJETI
+# YAMAZEN REGO FIX ER COLLET 16 Ø4
 
 ## Basic Information
 
 | Field | Value |
 |---|---|
-| Item No. | 1617 |
-| Brand | SECO |
+| Item No. | 3001 |
+| Brand | YAMAZEN |
 | Category | SPAREPARTS |
 | Unit | PCS |
 | BC Inventory | 1 |

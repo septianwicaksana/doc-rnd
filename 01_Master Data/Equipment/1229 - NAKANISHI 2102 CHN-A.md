@@ -1,8 +1,8 @@
 ---
-type: sparepart
-item_no: 2103
-sparepart_name: YG1 DREAM DRILL 10.2X12X71X118
-brand: TBD
+type: equipment
+item_no: 1229
+equipment_name: NAKANISHI 2102 CHN-A
+brand: NAKANISHI
 bc_category: SPAREPARTS
 unit: PCS
 bc_inventory: 1
@@ -10,14 +10,14 @@ status: active
 source: business_central
 ---
 
-# YG1 DREAM DRILL 10.2X12X71X118
+# NAKANISHI 2102 CHN-A
 
 ## Basic Information
 
 | Field | Value |
 |---|---|
-| Item No. | 2103 |
-| Brand | TBD |
+| Item No. | 1229 |
+| Brand | NAKANISHI |
 | Category | SPAREPARTS |
 | Unit | PCS |
 | BC Inventory | 1 |

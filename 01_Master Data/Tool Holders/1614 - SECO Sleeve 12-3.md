@@ -1,23 +1,23 @@
 ---
-type: sparepart
-item_no: 1602
-sparepart_name: HORN BU1050750S05
-brand: HORN
+type: tool_holder
+item_no: 1614
+holder_name: SECO Sleeve 12-3
+brand: SECO
 bc_category: SPAREPARTS
 unit: PCS
-bc_inventory: 3
+bc_inventory: 1
 status: active
 source: business_central
 ---
 
-# HORN BU1050750S05
+# SECO Sleeve 12-3
 
 ## Basic Information
 
 | Field | Value |
 |---|---|
-| Item No. | 1602 |
-| Brand | HORN |
+| Item No. | 1614 |
+| Brand | SECO |
 | Category | SPAREPARTS |
 | Unit | PCS |
-| BC Inventory | 3 |
+| BC Inventory | 1 |

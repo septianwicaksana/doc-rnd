@@ -1,7 +1,7 @@
 ---
-type: sparepart
+type: tool_holder
 item_no: 1628
-sparepart_name: WIZZ TOOL SLEEVE D25 - Ø8
+holder_name: WIZZ TOOL SLEEVE D25 - Ø8
 brand: TBD
 bc_category: SPAREPARTS
 unit: PCS

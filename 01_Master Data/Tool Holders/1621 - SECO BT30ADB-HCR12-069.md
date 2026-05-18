@@ -1,23 +1,23 @@
 ---
-type: sparepart
-item_no: 1625
-sparepart_name: SECO SVABR1212M11
+type: tool_holder
+item_no: 1621
+holder_name: SECO BT30ADB-HCR12-069
 brand: SECO
 bc_category: SPAREPARTS
 unit: PCS
-bc_inventory: 1
+bc_inventory: 3
 status: active
 source: business_central
 ---
 
-# SECO SVABR1212M11
+# SECO BT30ADB-HCR12-069
 
 ## Basic Information
 
 | Field | Value |
 |---|---|
-| Item No. | 1625 |
+| Item No. | 1621 |
 | Brand | SECO |
 | Category | SPAREPARTS |
 | Unit | PCS |
-| BC Inventory | 1 |
+| BC Inventory | 3 |

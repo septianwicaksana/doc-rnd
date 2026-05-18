@@ -1,23 +1,23 @@
 ---
-type: sparepart
-item_no: 1613
-sparepart_name: R217.69-2020.0-12-2AN
-brand: TBD
+type: tool_holder
+item_no: 1623
+holder_name: NIKKEN SK10-2.5
+brand: NIKKEN
 bc_category: SPAREPARTS
 unit: PCS
-bc_inventory: 1
+bc_inventory: 2
 status: active
 source: business_central
 ---
 
-# R217.69-2020.0-12-2AN
+# NIKKEN SK10-2.5
 
 ## Basic Information
 
 | Field | Value |
 |---|---|
-| Item No. | 1613 |
-| Brand | TBD |
+| Item No. | 1623 |
+| Brand | NIKKEN |
 | Category | SPAREPARTS |
 | Unit | PCS |
-| BC Inventory | 1 |
+| BC Inventory | 2 |

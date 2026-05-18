@@ -1,8 +1,8 @@
 ---
-type: sparepart
-item_no: 3020
-sparepart_name: CHUM POWER ER COLLET 16 Ø11
-brand: CHUM
+type: tool_holder
+item_no: 1619
+holder_name: YUKIWA SGN4
+brand: YUKIWA
 bc_category: SPAREPARTS
 unit: PCS
 bc_inventory: 0
@@ -10,14 +10,14 @@ status: active
 source: business_central
 ---
 
-# CHUM POWER ER COLLET 16 Ø11
+# YUKIWA SGN4
 
 ## Basic Information
 
 | Field | Value |
 |---|---|
-| Item No. | 3020 |
-| Brand | CHUM |
+| Item No. | 1619 |
+| Brand | YUKIWA |
 | Category | SPAREPARTS |
 | Unit | PCS |
 | BC Inventory | 0 |

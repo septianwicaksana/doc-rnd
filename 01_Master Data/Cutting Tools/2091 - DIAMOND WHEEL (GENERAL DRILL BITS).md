@@ -1,8 +1,8 @@
 ---
-type: sparepart
-item_no: 1630
-sparepart_name: HORN R356.1212.05
-brand: HORN
+type: cutting_tool
+item_no: 2091
+tool_name: DIAMOND WHEEL (GENERAL DRILL BITS)
+brand: TBD
 bc_category: SPAREPARTS
 unit: PCS
 bc_inventory: 2
@@ -10,14 +10,14 @@ status: active
 source: business_central
 ---
 
-# HORN R356.1212.05
+# DIAMOND WHEEL (GENERAL DRILL BITS)
 
 ## Basic Information
 
 | Field | Value |
 |---|---|
-| Item No. | 1630 |
-| Brand | HORN |
+| Item No. | 2091 |
+| Brand | TBD |
 | Category | SPAREPARTS |
 | Unit | PCS |
 | BC Inventory | 2 |
